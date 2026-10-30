@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": { "outDir": "lib/types/host" },
+  "include": ["src/host.ts", "src/directories.ts", "src/protocol.ts"]
+}

@@ -1,0 +1,4 @@
+- insert:
+    - id: projectless-chat
+      name: dsh-plugin-projectless
+      config: {}
